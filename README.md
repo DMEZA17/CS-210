@@ -1,5 +1,7 @@
 # Cplusplus-Program
-CS-210
+CS-210 
+Airgead Banking Project
+
 #1 - Summarize the project and what problem it was solving.
 The project was about getting values from a user and then showing the user how their balance will look depending on what values they entered. The program then allows the user to make changes to their monthly deposits, annual interest and number of years until they see what works best for them.
 
